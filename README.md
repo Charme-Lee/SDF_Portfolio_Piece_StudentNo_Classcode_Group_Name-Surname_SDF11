@@ -34,6 +34,6 @@ The outcome is similar to the below picture:
 
 Check out these links for more information on the project.
 
-## Presentation Slide Link
+## Presentation Link: https://docs.google.com/presentation/d/1sY_HjnjfDeQNDaNrFIJOqSyLfnRKdmo3BZTOqqeLtC4/edit?usp=sharing
 
 ## Loom Presentation Link []

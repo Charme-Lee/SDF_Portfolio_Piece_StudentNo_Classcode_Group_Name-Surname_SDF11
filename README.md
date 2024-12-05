@@ -29,10 +29,11 @@ The request was to build a Cache Bank's landing page, a web page tailored for so
 - Stats and Getting Started
 - Contact and Footer
 
-The outcome is similar to the below picture:
+### The outcome is similar to the below picture:
+
 ![alt text](image.png)
 
-Check out these links for more information on the project.
+### Check out these links for more information on the project.
 
 ## Presentation Link: https://docs.google.com/presentation/d/1sY_HjnjfDeQNDaNrFIJOqSyLfnRKdmo3BZTOqqeLtC4/edit?usp=sharing
 

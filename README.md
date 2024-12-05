@@ -15,5 +15,25 @@ npm run build-minify
 
 ```
 
-# Presentation Talking Points and Presentation Slide Template
-Check out the Project Overview in this GitHub Repo for the guide to talking points for your presentation as well the starter template for your Google Slides here: https://github.com/CodeSpace-Academy/SDF_Portfolio_Piece_StudentNo_Classcode_Group_Name-Surname_SDF11/blob/main/11_portfolio_piece_1.md
+# Project Summary
+
+Stack - HTML , CSS3, Tailwind CSS, Javascript
+
+The request was to build a Cache Bank's landing page, a web page tailored for software developers. The expectation was to stress test the knowledge and skill gained using the stack above. During development, the project was broken down into five components as stipulated below:
+
+## Project Breakdown
+
+- Project Setup and Responsive Navigation
+- Hero and endorsements
+- Features
+- Stats and Getting Started
+- Contact and Footer
+
+The outcome is similar to the below picture:
+![alt text](image.png)
+
+Check out these links for more information on the project.
+
+# Presentation Slide
+
+# Loom Presentation []

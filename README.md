@@ -37,4 +37,4 @@ The request was to build a Cache Bank's landing page, a web page tailored for so
 
 ## Presentation Link: https://docs.google.com/presentation/d/1sY_HjnjfDeQNDaNrFIJOqSyLfnRKdmo3BZTOqqeLtC4/edit?usp=sharing
 
-## Loom Presentation Link []
+## Loom Presentation Link: https://www.loom.com/share/50a8eb36fb034a01b3cf462a8e56f616?sid=632f457a-3c50-4ea1-9a37-f15db883751d
